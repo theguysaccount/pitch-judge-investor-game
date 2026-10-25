@@ -13,6 +13,7 @@ vm.runInContext(readFileSync(path.join(root, "site/assets/core.js"), "utf8"), ct
 const C = ctx.window.pjCore;
 const deck = JSON.parse(readFileSync(path.join(root, "data/pitches.json"), "utf8"));
 const slugs = deck.map((p) => p.slug);
+const outcomeOf = Object.fromEntries(deck.map((p) => [p.slug, p.outcome]));
 
 test("day numbers count from the epoch in UTC", () => {
   assert.equal(C.dayNumber("2026-10-25", new Date(Date.UTC(2026, 9, 25, 0, 0))), 1);
@@ -47,4 +48,16 @@ test("scoring and share text", () => {
 test("practice deals distinct pitches", () => {
   const set = C.practiceSet(slugs, 10, C.mulberry32(42));
   assert.equal(new Set(set).size, 10);
+});
+
+test("stratified dailies mix busts and winners and still never repeat within a cycle", () => {
+  const per = Math.floor(slugs.length / 5);
+  const seen = new Set();
+  for (let d = 1; d <= per; d++) {
+    const set = [...C.dailySet(slugs, d, 5, outcomeOf)];
+    const busts = set.filter((s) => outcomeOf[s] === "bust").length;
+    assert.ok(busts >= 2 && busts <= 3, "day " + d + " has " + busts + " busts");
+    for (const s of set) { assert.ok(!seen.has(s)); seen.add(s); }
+  }
+  assert.deepEqual([...C.dailySet(slugs, 3, 5, outcomeOf)], [...C.dailySet(slugs.slice().reverse(), 3, 5, outcomeOf)]);
 });

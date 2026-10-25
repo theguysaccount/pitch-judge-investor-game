@@ -7,7 +7,7 @@
 **Works now:**
 - Live game: daily (deterministic by UTC date, five a day, a full cycle before any repeat) and practice (ten at random).
 - 76 case-file pages, a spoiler deck page, 17 score share pages with share images, an embed widget, an about page.
-- Weekly deploy, weekly self-test with source link checks, keep-alive, CI. 15 Python and 5 Node tests.
+- Weekly deploy, weekly self-test with source link checks, keep-alive, CI. 15 Python and 6 Node tests.
 - All 76 source URLs resolve. The anonymisation check passes on every pitch.
 
 **Known gaps:**

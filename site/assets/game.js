@@ -116,8 +116,9 @@
 
   fetch(root.getAttribute("data-deck")).then(function (r) { return r.json(); }).then(function (d) {
     d.pitches.forEach(function (p) { deck[p.slug] = p; });
-    var slugs = Object.keys(deck);
-    order = mode === "daily" ? C.dailySet(slugs, day, size) : C.practiceSet(slugs, size);
+    var slugs = Object.keys(deck), outcomeOf = {};
+    slugs.forEach(function (s) { outcomeOf[s] = deck[s].outcome; });
+    order = mode === "daily" ? C.dailySet(slugs, day, size, outcomeOf) : C.practiceSet(slugs, size);
     var saved = mode === "daily" ? load("pj-daily-" + day) : null;
     if (saved && saved.results && saved.results.length) {
       results = saved.results.filter(function (r) { return r && deck[r.slug]; });

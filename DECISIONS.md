@@ -22,7 +22,7 @@
 
 **D6: the daily set comes from the UTC date in the browser (`core.js`).**
 - Everyone gets the same five without a server.
-- Each cycle uses every pitch once before reshuffling.
+- Each cycle uses every pitch once before reshuffling, and busts are spread evenly so every day has two or three.
 - Adding pitches changes future cycles, which is acceptable.
 
 **D7: no server, no accounts.**

@@ -23,13 +23,28 @@
     }
     return a;
   }
-  // Every day in a cycle gets different pitches; each new cycle reshuffles the whole deck.
-  function dailySet(slugs, day, size) {
+  // Every day in a cycle gets different pitches; each new cycle reshuffles the whole deck. With outcomes given,
+  // busts are spread evenly through the cycle (Bresenham-style), so each day mixes busts and winners.
+  function dailySet(slugs, day, size, outcomeOf) {
     var sorted = slugs.slice().sort();
     var per = Math.max(1, Math.floor(sorted.length / size));
     var d = Math.max(1, day);
     var cycle = Math.floor((d - 1) / per), pos = (d - 1) % per;
-    return shuffle(sorted, mulberry32(1000003 * (cycle + 1))).slice(pos * size, pos * size + size);
+    var rnd = mulberry32(1000003 * (cycle + 1));
+    var seq;
+    if (outcomeOf) {
+      var busts = shuffle(sorted.filter(function (s) { return outcomeOf[s] === "bust"; }), rnd);
+      var wins = shuffle(sorted.filter(function (s) { return outcomeOf[s] !== "bust"; }), rnd);
+      var n = busts.length + wins.length, b = busts.length, bi = 0, wi = 0;
+      seq = [];
+      for (var k = 0; k < n; k++) {
+        var wantBust = Math.floor((k + 1) * b / n) > Math.floor(k * b / n);
+        seq.push((wantBust && bi < busts.length) || wi >= wins.length ? busts[bi++] : wins[wi++]);
+      }
+    } else {
+      seq = shuffle(sorted, rnd);
+    }
+    return shuffle(seq.slice(pos * size, pos * size + size), mulberry32(7919 * d));
   }
   function practiceSet(slugs, size, rnd) {
     return shuffle(slugs, rnd || Math.random).slice(0, size);
