@@ -172,7 +172,7 @@ def pitch_page(ctx, p, deck):
             '<details class="reveal" id="reveal"><summary>Show what happened</summary><div class="answer"><p class="verdict-line">%s</p>'
             '<p><b>%s</b> %s</p><p class="pros">%s</p><p class="fine">Sources: %s</p></div></details>'
             '<section class="panel"><h2>More pitches</h2><ul class="more">%s</ul><p><a class="btn" href="%s">Play today’s five</a></p></section></article>'
-            % (pg.u(""), pg.u("deck/"), esc(p["name"]), p["year"], esc(p["stage"]), " · TV pitch" if p["kind"] == "tv" else "",
+            % (pg.u(""), pg.u("deck/"), esc(p["name"]), p["year"], esc(p["stage"]), "",
                esc(p["name"]), esc(p["headline"]), esc(p["pitch"]), facts, esc(p["outcome"]), outcome_badge(p["outcome"]),
                esc(p["name"]), esc(p["outcome_text"]), pros, srcs, more, pg.u("")))
     label, emoji, _ = data.OUTCOMES[p["outcome"]]

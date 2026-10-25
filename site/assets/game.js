@@ -30,7 +30,7 @@
 
   function showPitch() {
     var p = deck[order[i]];
-    root.innerHTML = header() + '<article class="card pitchcard"><p class="kicker">' + p.year + " · " + esc(p.stage) + (p.kind === "tv" ? " · TV pitch" : "") +
+    root.innerHTML = header() + '<article class="card pitchcard"><p class="kicker">' + p.year + " \u00b7 " + esc(p.stage) +
       '</p><p class="hl">' + esc(p.headline) + "</p><p>" + esc(p.pitch) + '</p><ul class="facts">' +
       p.facts.map(function (f) { return "<li>" + esc(f) + "</li>"; }).join("") + "</ul>" +
       '<div class="choices"><button type="button" class="btn invest" data-call="invest">Invest</button>' +
