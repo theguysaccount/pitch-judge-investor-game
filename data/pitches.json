@@ -1,0 +1,2062 @@
+[
+ {
+  "slug": "doorbot",
+  "name": "Doorbot (later Ring)",
+  "year": 2013,
+  "kind": "tv",
+  "stage": "TV pitch",
+  "headline": "A doorbell that rings your phone",
+  "pitch": "A founder has built a Wi-Fi doorbell with a camera. When someone presses it, your smartphone rings and you can see and talk to the visitor from anywhere. He has already crowdfunded the first units and is selling them online.",
+  "facts": [
+   "Asking $700,000 for 10% of the company, valuing it at $7 million",
+   "Raised $364,000 in an earlier crowdfunding campaign"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "Amazon bought the company, renamed Ring, in 2018 for about $1.15 billion.",
+  "outcome_year": 2018,
+  "pros": "The TV investors passed. One offered a loan-style deal, which the founder turned down.",
+  "tags": [
+   "hardware",
+   "home"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Ring_(company)",
+    "title": "Ring (company) (Wikipedia)"
+   }
+  ],
+  "pros_call": "pass"
+ },
+ {
+  "slug": "scrub-daddy",
+  "name": "Scrub Daddy",
+  "year": 2012,
+  "kind": "tv",
+  "stage": "TV pitch",
+  "headline": "A sponge that changes texture with water temperature",
+  "pitch": "An inventor sells a smiley-face kitchen sponge made of a polymer that is firm in cold water and soft in warm water. It doesn't scratch and rinses clean. He has been selling it regionally and wants national distribution.",
+  "facts": [
+   "Selling regionally so far",
+   "One product in a crowded aisle"
+  ],
+  "outcome": "success",
+  "outcome_text": "With a TV investor's help it reached TV shopping and national retailers; by May 2023 it had more than $926 million in retail sales, among the highest of any product pitched on the show.",
+  "outcome_year": 2023,
+  "pros": "One TV investor made a deal: $200,000 for 20%.",
+  "tags": [
+   "consumer",
+   "household"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Scrub_Daddy",
+    "title": "Scrub Daddy (Wikipedia)"
+   }
+  ],
+  "pros_call": "invest"
+ },
+ {
+  "slug": "breathometer",
+  "name": "Breathometer",
+  "year": 2013,
+  "kind": "tv",
+  "stage": "TV pitch",
+  "headline": "A breathalyzer that plugs into your phone",
+  "pitch": "A serial entrepreneur has a small device that plugs into a smartphone's headphone jack and estimates blood alcohol content, with an app that can call you a cab. A crowdfunding campaign raised more than five times its goal.",
+  "facts": [
+   "Asking $250,000 for 10% of the company",
+   "Crowdfunding raised over $138,000 against a $25,000 goal"
+  ],
+  "outcome": "bust",
+  "outcome_text": "In 2017 the US Federal Trade Commission charged that the company knew the device often under-reported blood alcohol and had made false accuracy claims. The app was shut down and customers were offered full refunds.",
+  "outcome_year": 2017,
+  "pros": "All five TV investors invested together: $1 million for 30%.",
+  "tags": [
+   "hardware",
+   "health"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Breathometer",
+    "title": "Breathometer (Wikipedia)"
+   }
+  ],
+  "pros_call": "invest"
+ },
+ {
+  "slug": "cousins-maine-lobster",
+  "name": "Cousins Maine Lobster",
+  "year": 2012,
+  "kind": "tv",
+  "stage": "TV pitch",
+  "headline": "A lobster-roll food truck",
+  "pitch": "Two cousins from Maine run a single food truck in Los Angeles selling lobster rolls with lobster shipped from Maine. Lines are long and they want to grow into more trucks and cities.",
+  "facts": [
+   "Asking for a small investment to expand beyond one truck"
+  ],
+  "outcome": "success",
+  "outcome_text": "It grew into a franchised food-truck business with locations across the US.",
+  "outcome_year": 2024,
+  "pros": "One TV investor made a deal: $55,000 for 15%.",
+  "tags": [
+   "food",
+   "franchise"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Cousins_Maine_Lobster",
+    "title": "Cousins Maine Lobster (Wikipedia)"
+   }
+  ],
+  "pros_call": "invest"
+ },
+ {
+  "slug": "tipsy-elves",
+  "name": "Tipsy Elves",
+  "year": 2013,
+  "kind": "tv",
+  "stage": "TV pitch",
+  "headline": "Ugly Christmas sweaters, sold online",
+  "pitch": "Two founders sell loud, holiday-themed sweaters and apparel online, donating part of each sale to charity. They sold over a thousand sweaters in their first year and want to get into retail stores.",
+  "facts": [
+   "Nearly $1 million in sales in their second year",
+   "Seasonal business concentrated around one holiday"
+  ],
+  "outcome": "success",
+  "outcome_text": "By 2018 the company had reportedly done more than $70 million in sales.",
+  "outcome_year": 2018,
+  "pros": "One TV investor made a deal: $100,000. Another offered a royalty-only deal.",
+  "tags": [
+   "apparel",
+   "ecommerce"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Tipsy_Elves",
+    "title": "Tipsy Elves (Wikipedia)"
+   }
+  ],
+  "pros_call": "invest"
+ },
+ {
+  "slug": "notehall",
+  "name": "Notehall",
+  "year": 2009,
+  "kind": "tv",
+  "stage": "TV pitch",
+  "headline": "A marketplace for college class notes",
+  "pitch": "Two students run an online marketplace where college students buy and sell class notes and study guides; the site keeps half of each sale. It started at one university.",
+  "facts": [
+   "Takes 50% of each sale",
+   "Early traction at a single campus"
+  ],
+  "outcome": "success",
+  "outcome_text": "The company was sold to the education company Chegg in 2011 for about $3.7 million in equity.",
+  "outcome_year": 2011,
+  "pros": "A TV investor offered $90,000; the founders later declined it and joined a startup accelerator instead.",
+  "tags": [
+   "education",
+   "marketplace"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Notehall",
+    "title": "Notehall (Wikipedia)"
+   }
+  ],
+  "pros_call": "invest"
+ },
+ {
+  "slug": "talbott-teas",
+  "name": "Talbott Teas",
+  "year": 2012,
+  "kind": "tv",
+  "stage": "TV pitch",
+  "headline": "A gourmet loose-leaf tea brand",
+  "pitch": "Two founders sell premium loose-leaf teas and are building wholesale accounts with cafes and grocers. They want capital to expand distribution.",
+  "facts": [
+   "Asking $250,000 for 20% of the company"
+  ],
+  "outcome": "success",
+  "outcome_text": "In January 2012 the smoothie chain Jamba Juice bought certain assets of the business for $400,000 in cash plus performance payments.",
+  "outcome_year": 2012,
+  "pros": "One TV investor made a deal: $250,000, but for 35%.",
+  "tags": [
+   "food",
+   "beverage"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Talbott_Teas",
+    "title": "Talbott Teas (Wikipedia)"
+   }
+  ],
+  "pros_call": "invest"
+ },
+ {
+  "slug": "kodiak-cakes",
+  "name": "Kodiak Cakes",
+  "year": 2014,
+  "kind": "tv",
+  "stage": "TV pitch",
+  "headline": "Whole-grain pancake mix",
+  "pitch": "A family business sells whole-grain pancake and waffle mixes. Sales are a few million dollars a year and growing in grocery stores.",
+  "facts": [
+   "About $3.6 million in sales the year before",
+   "Competing in a crowded grocery aisle"
+  ],
+  "outcome": "success",
+  "outcome_text": "Sales nearly doubled the next year, and in 2021 the private equity firm L Catterton bought a majority stake.",
+  "outcome_year": 2021,
+  "pros": "No deal: the company declined the TV investors' terms.",
+  "tags": [
+   "food",
+   "grocery"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Kodiak_Cakes",
+    "title": "Kodiak Cakes (Wikipedia)"
+   }
+  ],
+  "pros_call": "pass"
+ },
+ {
+  "slug": "readerest",
+  "name": "ReadeREST",
+  "year": 2012,
+  "kind": "tv",
+  "stage": "TV pitch",
+  "headline": "A magnetic holder for eyeglasses",
+  "pitch": "An inventor sells a small magnetic clip that holds reading glasses on your shirt so you stop losing them. He has early retail interest.",
+  "facts": [
+   "Asking $150,000 for 15% of the company"
+  ],
+  "outcome": "success",
+  "outcome_text": "After the show it sold through TV shopping and national retailers including Bed Bath & Beyond, Walmart and Ace Hardware.",
+  "outcome_year": 2013,
+  "pros": "One TV investor made a deal: $150,000, but for 65%.",
+  "tags": [
+   "consumer",
+   "invention"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Readerest",
+    "title": "Readerest (Wikipedia)"
+   }
+  ],
+  "pros_call": "invest"
+ },
+ {
+  "slug": "ten-thirty-one",
+  "name": "Ten Thirty One Productions",
+  "year": 2013,
+  "kind": "tv",
+  "stage": "TV pitch",
+  "headline": "Live horror attractions",
+  "pitch": "A founder produces immersive haunted attractions and horror events in Los Angeles. The company did about $400,000 in revenue in its first year.",
+  "facts": [
+   "Seasonal live-events business",
+   "About $400,000 first-year revenue"
+  ],
+  "outcome": "success",
+  "outcome_text": "Revenue reached about $3 million in 2014, and the company was later bought by Thirteenth Floor Entertainment Group, the largest haunted-house operator.",
+  "outcome_year": 2017,
+  "pros": "One TV investor made what was then the show's biggest deal: $2 million for 20%.",
+  "tags": [
+   "entertainment",
+   "events"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Ten_Thirty_One_Productions",
+    "title": "Ten Thirty One Productions (Wikipedia)"
+   }
+  ],
+  "pros_call": "invest"
+ },
+ {
+  "slug": "coffee-meets-bagel",
+  "name": "Coffee Meets Bagel",
+  "year": 2015,
+  "kind": "tv",
+  "stage": "TV pitch",
+  "headline": "A dating app with one match a day",
+  "pitch": "Three sisters run a dating app that sends each user a small number of curated matches a day instead of endless swiping. It has seed funding from well-known investors.",
+  "facts": [
+   "Asking $500,000 for 5% of the company",
+   "Raised a $600,000 seed round in 2012"
+  ],
+  "outcome": "success",
+  "outcome_text": "It raised a $7.8 million Series A weeks later and kept growing; by 2024 its revenue was estimated at about $36 million a year.",
+  "outcome_year": 2024,
+  "pros": "No deal with the TV investors.",
+  "tags": [
+   "consumer",
+   "app"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Coffee_Meets_Bagel",
+    "title": "Coffee Meets Bagel (Wikipedia)"
+   }
+  ],
+  "pros_call": "pass"
+ },
+ {
+  "slug": "airbnb",
+  "name": "Airbnb",
+  "year": 2008,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Rent an air mattress in a stranger's apartment",
+  "pitch": "Two designers rented air mattresses on their floor to conference-goers when local hotels sold out. Now they want a website where anyone can rent out space in their home to travellers. They have few users so far.",
+  "facts": [
+   "Joined a startup accelerator for a small seed investment",
+   "Few listings outside big events"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It became a public company in December 2020, raising $3.5 billion in its IPO.",
+  "outcome_year": 2020,
+  "pros": "A startup accelerator invested.",
+  "tags": [
+   "marketplace",
+   "travel"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Airbnb",
+    "title": "Airbnb (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "dropbox",
+  "name": "Dropbox",
+  "year": 2007,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "A folder that syncs across all your computers",
+  "pitch": "Two MIT students have built software that puts one folder on all your computers and keeps the files in sync in the cloud. Plenty of companies already sell online storage.",
+  "facts": [
+   "Seed funding from a startup accelerator",
+   "Crowded market with big-company competitors"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It went public on Nasdaq in 2018.",
+  "outcome_year": 2018,
+  "pros": "A startup accelerator backed it at the start.",
+  "tags": [
+   "software",
+   "cloud"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Dropbox",
+    "title": "Dropbox (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "instagram",
+  "name": "Instagram",
+  "year": 2010,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Retro photo filters on a phone",
+  "pitch": "Two founders pivoted from a location check-in app to a simple iPhone app for taking photos, applying vintage-looking filters and sharing them with friends.",
+  "facts": [
+   "$500,000 seed round valuing the company at about $20 million",
+   "No revenue"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It reached 10 million users in a year, and Facebook bought it in April 2012 for about $1 billion.",
+  "outcome_year": 2012,
+  "pros": "Two venture firms invested in the seed round.",
+  "tags": [
+   "consumer",
+   "social"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Instagram",
+    "title": "Instagram (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "whatsapp",
+  "name": "WhatsApp",
+  "year": 2009,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Status updates for your phone contacts",
+  "pitch": "Two former Yahoo employees have an app that lets you set a status next to your name in people's phone contacts. They are adding free messaging over the internet instead of paid SMS.",
+  "facts": [
+   "$250,000 seed round from former colleagues",
+   "Competing with free SMS bundles and other messaging apps"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "Facebook bought it in February 2014 for about $19.3 billion.",
+  "outcome_year": 2014,
+  "pros": "Ex-colleagues invested $250,000; a top venture firm invested about $8 million in 2011.",
+  "tags": [
+   "consumer",
+   "messaging"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/WhatsApp",
+    "title": "WhatsApp (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "oculus",
+  "name": "Oculus VR",
+  "year": 2012,
+  "kind": "startup",
+  "stage": "Kickstarter",
+  "headline": "A virtual-reality headset for gamers",
+  "pitch": "A young hardware hacker has built a low-cost virtual-reality headset prototype. The team launches a Kickstarter offering developer kits to backers who pledge $300.",
+  "facts": [
+   "Developer kits for $300 pledges",
+   "Consumer VR had failed before, in the 1990s"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "Facebook agreed to buy it in 2014 for about $2 billion.",
+  "outcome_year": 2014,
+  "pros": "Thousands of Kickstarter backers, then venture firms, invested.",
+  "tags": [
+   "hardware",
+   "gaming"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Oculus_VR",
+    "title": "Oculus VR (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "nest",
+  "name": "Nest Labs",
+  "year": 2010,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "A smart thermostat",
+  "pitch": "Two former Apple engineers want to reinvent the home thermostat: a beautiful, learning device that programs itself and saves energy. Thermostats are a boring, low-margin product category.",
+  "facts": [
+   "Hardware company competing with entrenched manufacturers",
+   "Founders are former Apple engineers"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "Google bought it in January 2014 for $3.2 billion.",
+  "outcome_year": 2014,
+  "pros": "Venture firms backed the founders' track record.",
+  "tags": [
+   "hardware",
+   "home"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Nest_Labs",
+    "title": "Nest Labs (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "waze",
+  "name": "Waze",
+  "year": 2008,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Crowdsourced driving directions",
+  "pitch": "An Israeli team has a navigation app that builds its maps and traffic data from what its own drivers report in real time. Google, Apple and GPS makers already offer free or cheap maps.",
+  "facts": [
+   "Map quality depends on having many users first",
+   "Free app"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "Google bought it in June 2013 for about $1.3 billion.",
+  "outcome_year": 2013,
+  "pros": "Venture investors funded several rounds.",
+  "tags": [
+   "mobile",
+   "maps"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Waze",
+    "title": "Waze (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "zappos",
+  "name": "Zappos",
+  "year": 1999,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Selling shoes online",
+  "pitch": "A founder wants to sell shoes over the internet, in 1999. Shoes need trying on, returns will be expensive, and online retail is new.",
+  "facts": [
+   "$2 million from an investment firm",
+   "Online retail is still new"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "Amazon bought it in July 2009 in an all-stock deal worth about $1.2 billion.",
+  "outcome_year": 2009,
+  "pros": "An investment firm put in $2 million.",
+  "tags": [
+   "ecommerce",
+   "retail"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Zappos",
+    "title": "Zappos (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "dollar-shave-club",
+  "name": "Dollar Shave Club",
+  "year": 2011,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Razors by monthly subscription",
+  "pitch": "Two founders sell cheap razor blades by mail on a monthly subscription. They plan to launch with a funny YouTube video. The market is dominated by giants with huge ad budgets.",
+  "facts": [
+   "$1 million seed round",
+   "Competing with the largest razor brands"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "Unilever bought it in July 2016 for a reported $1 billion in cash.",
+  "outcome_year": 2016,
+  "pros": "Top venture firms invested in the seed round.",
+  "tags": [
+   "ecommerce",
+   "subscription"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Dollar_Shave_Club",
+    "title": "Dollar Shave Club (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "slack",
+  "name": "Slack",
+  "year": 2013,
+  "kind": "startup",
+  "stage": "Pivot",
+  "headline": "A team chat app from a failed game company",
+  "pitch": "A small company built an online game that failed. Its team built an internal chat tool along the way and now wants to sell that to other companies. Workplace chat already has many products.",
+  "facts": [
+   "The company's game had just shut down",
+   "Raised $17 million for the new product"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It went public in 2019, and Salesforce bought it in 2021 for $27.7 billion.",
+  "outcome_year": 2020,
+  "pros": "Venture firms invested $17 million in the pivot.",
+  "tags": [
+   "software",
+   "workplace"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Slack_Technologies",
+    "title": "Slack Technologies (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "stripe",
+  "name": "Stripe",
+  "year": 2010,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Online payments for developers",
+  "pitch": "Two brothers want to let developers accept card payments with a few lines of code. Payments are dominated by banks and incumbents, heavily regulated, and low margin.",
+  "facts": [
+   "Two young founders",
+   "Competing with established payment companies"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It became the largest private fintech company, valued at about $159 billion.",
+  "outcome_year": 2025,
+  "pros": "Early investors backed the founders.",
+  "tags": [
+   "fintech",
+   "payments"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Stripe,_Inc.",
+    "title": "Stripe, Inc. (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "canva",
+  "name": "Canva",
+  "year": 2013,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Design tools for non-designers, from Perth",
+  "pitch": "A team in Perth, Australia, is building a simple web tool for anyone to design graphics and presentations. Adobe dominates design software, and Australia has few venture investors.",
+  "facts": [
+   "Based far from Silicon Valley",
+   "Competing with Adobe"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It was valued at A$1 billion by 2018 and peaked at US$40 billion in 2021.",
+  "outcome_year": 2021,
+  "pros": "Venture investors in Australia and the US backed it.",
+  "tags": [
+   "software",
+   "design"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Canva",
+    "title": "Canva (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "zoom",
+  "name": "Zoom",
+  "year": 2011,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Another video-conferencing product",
+  "pitch": "A former Cisco Webex executive wants to build video meetings that just work. The market already has Webex, Skype and GoToMeeting.",
+  "facts": [
+   "$3 million seed round",
+   "Entering a mature, crowded category"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It went public on Nasdaq in April 2019.",
+  "outcome_year": 2019,
+  "pros": "Angels and venture firms put in $3 million.",
+  "tags": [
+   "software",
+   "video"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Zoom_Communications",
+    "title": "Zoom Communications (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "duolingo",
+  "name": "Duolingo",
+  "year": 2011,
+  "kind": "startup",
+  "stage": "Private beta",
+  "headline": "Free language lessons as a game",
+  "pitch": "A computer science professor and his student offer free, game-like language lessons. Early on, they plan to earn money by having learners translate real web content.",
+  "facts": [
+   "Waiting list of more than 100,000 people in its first two weeks",
+   "No clear way to make money yet"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It was valued at $1.5 billion by 2019 and went public on Nasdaq in 2021.",
+  "outcome_year": 2021,
+  "pros": "Venture firms invested from the beginning.",
+  "tags": [
+   "education",
+   "consumer"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Duolingo",
+    "title": "Duolingo (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "robinhood",
+  "name": "Robinhood",
+  "year": 2013,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Commission-free stock trading on a phone",
+  "pitch": "Two former trading-software founders want a phone app where anyone can buy stocks without paying commissions, when most brokers charged a commission on every trade.",
+  "facts": [
+   "$3 million seed round",
+   "No commission revenue by design"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It went public on Nasdaq in July 2021, valued at about $32 billion.",
+  "outcome_year": 2021,
+  "pros": "Venture firms led a $3 million seed.",
+  "tags": [
+   "fintech",
+   "trading"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Robinhood_Markets",
+    "title": "Robinhood Markets (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "coinbase",
+  "name": "Coinbase",
+  "year": 2012,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "An easy way to buy bitcoin",
+  "pitch": "A former Airbnb engineer wants to make it simple for ordinary people to buy and store bitcoin, a currency most people have never heard of.",
+  "facts": [
+   "Joined a startup accelerator",
+   "Bitcoin's legal status was unclear"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It became a public company on Nasdaq in April 2021.",
+  "outcome_year": 2021,
+  "pros": "A startup accelerator invested at the start.",
+  "tags": [
+   "crypto",
+   "fintech"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Coinbase",
+    "title": "Coinbase (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "peloton",
+  "name": "Peloton",
+  "year": 2012,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "A premium exercise bike with streamed classes",
+  "pitch": "Founders want to sell a premium stationary bike with a screen that streams live spin classes into your home, plus a monthly subscription.",
+  "facts": [
+   "$400,000 seed round",
+   "Early bikes priced around $1,500, plus a subscription"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It went public in September 2019 at an $8.1 billion valuation (and later lost much of it).",
+  "outcome_year": 2019,
+  "pros": "Angels and venture firms invested.",
+  "tags": [
+   "hardware",
+   "fitness"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Peloton_Interactive",
+    "title": "Peloton Interactive (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "doordash",
+  "name": "DoorDash",
+  "year": 2013,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Restaurant delivery from Stanford students",
+  "pitch": "Four Stanford students run a delivery website in Palo Alto, doing the deliveries themselves, for restaurants that have no delivery drivers.",
+  "facts": [
+   "$120,000 from a startup accelerator for 7%",
+   "Thin margins, competitors everywhere"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It went public in December 2020, raising $3.37 billion in its IPO.",
+  "outcome_year": 2020,
+  "pros": "A startup accelerator invested $120,000.",
+  "tags": [
+   "marketplace",
+   "delivery"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/DoorDash",
+    "title": "DoorDash (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "figma",
+  "name": "Figma",
+  "year": 2013,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Design software in a web browser",
+  "pitch": "Two founders want to build professional design software that runs in a web browser and lets teams work in the same file. Professional designers use powerful desktop apps.",
+  "facts": [
+   "$3.8 million seed round",
+   "Years of engineering before launch"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It was valued at more than $2 billion by 2020, and Adobe agreed to buy it for about $20 billion in 2022 (the deal was later abandoned).",
+  "outcome_year": 2022,
+  "pros": "Venture firms led a $3.8 million seed.",
+  "tags": [
+   "software",
+   "design"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Figma",
+    "title": "Figma (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "chewy",
+  "name": "Chewy",
+  "year": 2011,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Pet food online",
+  "pitch": "A founder wants to sell pet food and supplies online with friendly customer service, a decade after the most famous online pet store collapsed.",
+  "facts": [
+   "Heavy, low-margin products",
+   "A famous failure in the same category"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "PetSmart bought it in 2017 for $3.35 billion, then the largest e-commerce acquisition ever.",
+  "outcome_year": 2017,
+  "pros": "Venture investors backed it.",
+  "tags": [
+   "ecommerce",
+   "pets"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Chewy,_Inc.",
+    "title": "Chewy, Inc. (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "youtube",
+  "name": "YouTube",
+  "year": 2005,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "A website for sharing videos",
+  "pitch": "Three former PayPal employees have a website where anyone can upload a video and share it with a link. Hosting video is expensive, and much of what gets uploaded may infringe copyright.",
+  "facts": [
+   "High bandwidth costs",
+   "Copyright risk"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "Google bought it in November 2006 for $1.65 billion.",
+  "outcome_year": 2006,
+  "pros": "A venture firm invested early.",
+  "tags": [
+   "consumer",
+   "video"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/YouTube",
+    "title": "YouTube (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "jet",
+  "name": "Jet.com",
+  "year": 2014,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "An online store to take on Amazon",
+  "pitch": "A founder who already sold one e-commerce company wants to build a new online retailer that rewards shoppers with lower prices for bigger baskets, to compete with Amazon.",
+  "facts": [
+   "$1 million seed commitment",
+   "Competing head-on with Amazon"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "Walmart bought it in August 2016 for $3.3 billion.",
+  "outcome_year": 2016,
+  "pros": "A venture firm promised $1 million in seed capital.",
+  "tags": [
+   "ecommerce",
+   "retail"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Jet.com",
+    "title": "Jet.com (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "instacart",
+  "name": "Instacart",
+  "year": 2012,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Grocery delivery by personal shoppers",
+  "pitch": "A founder wants shoppers, dispatched by app, to buy groceries at existing stores and deliver them within hours. A famous dot-com grocery company failed a decade earlier.",
+  "facts": [
+   "Thin grocery margins",
+   "A famous failure in the category"
+  ],
+  "outcome": "breakout",
+  "outcome_text": "It went public in September 2023, valued at about $10 billion.",
+  "outcome_year": 2023,
+  "pros": "A startup accelerator and venture firms invested.",
+  "tags": [
+   "marketplace",
+   "grocery"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Instacart",
+    "title": "Instacart (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "twitch",
+  "name": "Justin.tv (later Twitch)",
+  "year": 2007,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "A 24/7 livestream of one founder's life",
+  "pitch": "Two recent graduates stream one co-founder's life live, around the clock, from a camera on his head. They want to let anyone broadcast live video.",
+  "facts": [
+   "No business model yet",
+   "Expensive live video infrastructure"
+  ],
+  "outcome": "success",
+  "outcome_text": "It refocused on video-game streaming as Twitch, and Amazon bought it in 2014 for $970 million.",
+  "outcome_year": 2014,
+  "pros": "Angels and a startup accelerator invested.",
+  "tags": [
+   "video",
+   "gaming"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Twitch_(service)",
+    "title": "Twitch (service) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "bonobos",
+  "name": "Bonobos",
+  "year": 2007,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Better-fitting men's trousers, online only",
+  "pitch": "Two business-school students sell men's trousers with a better fit, only online, with free shipping and returns.",
+  "facts": [
+   "Online-only apparel",
+   "Narrow first product"
+  ],
+  "outcome": "success",
+  "outcome_text": "Walmart bought it in 2017 for $310 million.",
+  "outcome_year": 2017,
+  "pros": "Venture firms invested.",
+  "tags": [
+   "apparel",
+   "ecommerce"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Bonobos_(apparel)",
+    "title": "Bonobos (apparel) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "vine",
+  "name": "Vine",
+  "year": 2012,
+  "kind": "startup",
+  "stage": "Pre-launch",
+  "headline": "Six-second looping videos",
+  "pitch": "Three founders are building an app for recording and sharing six-second looping videos. It has not launched yet.",
+  "facts": [
+   "Not launched",
+   "No revenue"
+  ],
+  "outcome": "success",
+  "outcome_text": "Twitter bought it four months after it was founded, for $30 million, before launch. Twitter shut the app down in 2017.",
+  "outcome_year": 2012,
+  "pros": "Twitter bought it before anyone else could invest.",
+  "tags": [
+   "consumer",
+   "video"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Vine_(service)",
+    "title": "Vine (service) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "wunderlist",
+  "name": "Wunderlist",
+  "year": 2010,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "A to-do list app from Berlin",
+  "pitch": "A Berlin team has a polished to-do list app that syncs across devices. App stores already have hundreds of to-do apps.",
+  "facts": [
+   "Seed funding from German investors",
+   "Crowded category"
+  ],
+  "outcome": "success",
+  "outcome_text": "Microsoft bought its maker in June 2015 for between $100 million and $200 million.",
+  "outcome_year": 2015,
+  "pros": "German seed funds invested.",
+  "tags": [
+   "software",
+   "productivity"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Wunderlist",
+    "title": "Wunderlist (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "flickr",
+  "name": "Flickr",
+  "year": 2004,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Photo sharing from a game company",
+  "pitch": "A Vancouver company building an online game has added a tool for sharing photos, and it is growing faster than the game.",
+  "facts": [
+   "Pivot from a game",
+   "Small team"
+  ],
+  "outcome": "success",
+  "outcome_text": "Yahoo bought it in 2005 for a reported $22 million to $25 million.",
+  "outcome_year": 2005,
+  "pros": "Angel investors backed the game company.",
+  "tags": [
+   "consumer",
+   "photos"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Flickr",
+    "title": "Flickr (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "quip",
+  "name": "Quip",
+  "year": 2012,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Mobile-first shared documents",
+  "pitch": "A former Facebook CTO and a Google engineer are building shared documents and lists designed for phones first. Google Docs and Microsoft Office are free or entrenched.",
+  "facts": [
+   "Competing with Google and Microsoft",
+   "Well-known founders"
+  ],
+  "outcome": "success",
+  "outcome_text": "Salesforce bought it in 2016 for an estimated $750 million.",
+  "outcome_year": 2016,
+  "pros": "Venture firms invested.",
+  "tags": [
+   "software",
+   "productivity"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Quip_(software)",
+    "title": "Quip (software) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "mint",
+  "name": "Mint.com",
+  "year": 2007,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Personal finance tracking, free",
+  "pitch": "A founder has a free website that pulls in all your bank and card accounts and categorises your spending automatically, planning to earn money from financial product offers.",
+  "facts": [
+   "Users must hand over bank logins",
+   "Free product"
+  ],
+  "outcome": "success",
+  "outcome_text": "Intuit bought it in 2009 for $170 million.",
+  "outcome_year": 2009,
+  "pros": "Venture firms invested.",
+  "tags": [
+   "fintech",
+   "consumer"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Mint.com",
+    "title": "Mint.com (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "cruise",
+  "name": "Cruise",
+  "year": 2014,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Self-driving kits for existing cars",
+  "pitch": "A founder wants to sell a $10,000 kit that retrofits existing cars with highway self-driving, starting with one model of Audi.",
+  "facts": [
+   "Startup accelerator graduate",
+   "Unproven technology, regulatory unknowns"
+  ],
+  "outcome": "success",
+  "outcome_text": "General Motors bought it in 2016 for an undisclosed sum, estimated at $580 million to over $1 billion. GM later shut its robotaxi business in 2024.",
+  "outcome_year": 2016,
+  "pros": "A startup accelerator and venture firms invested.",
+  "tags": [
+   "autonomy",
+   "automotive"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle)",
+    "title": "Cruise (autonomous vehicle) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "mailbox",
+  "name": "Mailbox",
+  "year": 2012,
+  "kind": "startup",
+  "stage": "Pre-launch",
+  "headline": "An email app with a waiting list",
+  "pitch": "A small team has built a gesture-based iPhone email app that turns your inbox into a to-do list. Hundreds of thousands of people joined its waiting list before launch.",
+  "facts": [
+   "Over 380,000 reservations before launch",
+   "Free app"
+  ],
+  "outcome": "success",
+  "outcome_text": "Dropbox bought the company in March 2013, weeks after launch. Dropbox shut the app down in 2015.",
+  "outcome_year": 2013,
+  "pros": "Venture firms invested.",
+  "tags": [
+   "software",
+   "email"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Mailbox_(application)",
+    "title": "Mailbox (application) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "juicero",
+  "name": "Juicero",
+  "year": 2014,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "A Wi-Fi juicer with juice packs",
+  "pitch": "A founder has built a $699 internet-connected press that squeezes proprietary packs of chopped fruit and vegetables, sold by subscription.",
+  "facts": [
+   "Expensive hardware plus subscription packs",
+   "Raised money from top venture firms"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It raised $120 million, cut the price to $399 after slow sales, and ceased operations in 2017.",
+  "outcome_year": 2017,
+  "pros": "Top venture firms invested $120 million.",
+  "tags": [
+   "hardware",
+   "food"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Juicero",
+    "title": "Juicero (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "quibi",
+  "name": "Quibi",
+  "year": 2018,
+  "kind": "startup",
+  "stage": "Pre-launch",
+  "headline": "Hollywood-quality shows in ten-minute episodes for phones",
+  "pitch": "A legendary film executive and a former Fortune 500 CEO want to make big-budget TV shows in short episodes, watched only on phones, for a monthly fee.",
+  "facts": [
+   "Star founders",
+   "Big content budget before launch"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It raised $1.75 billion, launched in April 2020 and shut down that December. Its library sold to Roku for under $100 million.",
+  "outcome_year": 2020,
+  "pros": "Investors put in $1.75 billion before launch.",
+  "tags": [
+   "media",
+   "video"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Quibi",
+    "title": "Quibi (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "theranos",
+  "name": "Theranos",
+  "year": 2004,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Hundreds of blood tests from a finger-prick",
+  "pitch": "A 19-year-old Stanford dropout says her company will run many lab tests from a few drops of blood, cheaply, in retail stores.",
+  "facts": [
+   "Raised $6 million by the end of 2004",
+   "Technology not independently validated"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It raised more than $700 million and reached a $9 billion valuation, then collapsed amid fraud; it dissolved in 2018.",
+  "outcome_year": 2018,
+  "pros": "Investors put in more than $700 million over the years.",
+  "tags": [
+   "health",
+   "diagnostics"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Theranos",
+    "title": "Theranos (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "jawbone",
+  "name": "Jawbone",
+  "year": 2011,
+  "kind": "startup",
+  "stage": "Growth",
+  "headline": "A fitness wristband from a headset maker",
+  "pitch": "A company known for Bluetooth headsets and speakers is launching a wristband that tracks steps and sleep.",
+  "facts": [
+   "Strong brand in audio",
+   "Wearables market just forming"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It stopped making fitness trackers and was liquidated in July 2017.",
+  "outcome_year": 2017,
+  "pros": "Major investors had backed the company for years.",
+  "tags": [
+   "hardware",
+   "wearables"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Jawbone_(company)",
+    "title": "Jawbone (company) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "fab",
+  "name": "Fab",
+  "year": 2011,
+  "kind": "startup",
+  "stage": "Pivot",
+  "headline": "Daily design sales after a social network pivot",
+  "pitch": "Founders pivoted a struggling social network into a site selling a few discounted design products each day. Sales are taking off quickly.",
+  "facts": [
+   "Fast growth after the pivot",
+   "Low-margin flash sales"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It was once valued at over $1 billion; its assets were sold in 2015 for an undisclosed sum.",
+  "outcome_year": 2015,
+  "pros": "Venture investors poured in money as sales grew.",
+  "tags": [
+   "ecommerce",
+   "design"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Fab_(website)",
+    "title": "Fab (website) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "homejoy",
+  "name": "Homejoy",
+  "year": 2013,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "On-demand home cleaning",
+  "pitch": "Two siblings run an app for booking home cleaners at $25 to $35 an hour in several cities. They want to expand nationally and abroad.",
+  "facts": [
+   "$1.7 million seed round",
+   "Cleaners are contractors; quality is hard to control"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It shut down on July 31, 2015.",
+  "outcome_year": 2015,
+  "pros": "A startup accelerator and venture firms invested.",
+  "tags": [
+   "marketplace",
+   "services"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Homejoy",
+    "title": "Homejoy (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "pets-com",
+  "name": "Pets.com",
+  "year": 1999,
+  "kind": "startup",
+  "stage": "Series A",
+  "headline": "Pet supplies online",
+  "pitch": "A company sells pet food and supplies online, with ambitious national advertising plans, including a Super Bowl ad.",
+  "facts": [
+   "$10.5 million from Amazon and venture firms",
+   "Heavy, low-margin products shipped from warehouses"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It shut down in November 2000, about two years after launch.",
+  "outcome_year": 2000,
+  "pros": "Amazon and venture firms invested $10.5 million.",
+  "tags": [
+   "ecommerce",
+   "pets"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Pets.com",
+    "title": "Pets.com (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "webvan",
+  "name": "Webvan",
+  "year": 1997,
+  "kind": "startup",
+  "stage": "Series A",
+  "headline": "Groceries delivered from robot warehouses",
+  "pitch": "The co-founder of a bookstore chain plans an online grocery service with its own automated warehouses and delivery trucks.",
+  "facts": [
+   "Each top venture firm invested $3.5 million in the first round",
+   "Needs huge warehouse spending before scale"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It filed for bankruptcy in July 2001 after losing more than $800 million.",
+  "outcome_year": 2001,
+  "pros": "Two top venture firms and Borders invested in the first round.",
+  "tags": [
+   "ecommerce",
+   "grocery"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Webvan",
+    "title": "Webvan (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "kozmo",
+  "name": "Kozmo.com",
+  "year": 1999,
+  "kind": "startup",
+  "stage": "Growth",
+  "headline": "One-hour delivery of almost anything",
+  "pitch": "Two former investment bankers deliver videos, snacks and other items within an hour, with no delivery fee, in New York.",
+  "facts": [
+   "1999 revenue $3.5 million, net loss $26.3 million",
+   "Free delivery"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It raised about $250 million and was out of business by April 2001.",
+  "outcome_year": 2001,
+  "pros": "Investors including Amazon put in about $250 million.",
+  "tags": [
+   "delivery",
+   "ecommerce"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Kozmo.com",
+    "title": "Kozmo.com (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "clinkle",
+  "name": "Clinkle",
+  "year": 2013,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Mobile payments using ultrasound",
+  "pitch": "A Stanford student is building a payments app that uses ultrasonic sound to pass payments between phones. It has not launched.",
+  "facts": [
+   "$25 million seed round, the largest in Silicon Valley history",
+   "No product launched"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It never delivered a viable product and shut down in 2016.",
+  "outcome_year": 2016,
+  "pros": "Top investors put $25 million into the seed round.",
+  "tags": [
+   "fintech",
+   "payments"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Clinkle",
+    "title": "Clinkle (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "secret",
+  "name": "Secret",
+  "year": 2014,
+  "kind": "startup",
+  "stage": "Series A",
+  "headline": "An anonymous sharing app",
+  "pitch": "Two former Square and Google product leads have an app for sharing anonymous posts with your contacts. It is spreading fast in Silicon Valley.",
+  "facts": [
+   "$8.6 million Series A with three employees",
+   "Moderation problems likely"
+  ],
+  "outcome": "bust",
+  "outcome_text": "Its founder shut it down in April 2015.",
+  "outcome_year": 2015,
+  "pros": "Venture firms invested $8.6 million.",
+  "tags": [
+   "consumer",
+   "social"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Secret_(app)",
+    "title": "Secret (app) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "yik-yak",
+  "name": "Yik Yak",
+  "year": 2014,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "An anonymous message board for college campuses",
+  "pitch": "Two recent graduates run an app that shows anonymous posts from people within a few miles. It is spreading across campuses.",
+  "facts": [
+   "$1.5 million seed round",
+   "Moderation and bullying risks"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It shut down in May 2017; its assets were sold for about $1 million.",
+  "outcome_year": 2017,
+  "pros": "Venture investors put in $1.5 million (and much more later).",
+  "tags": [
+   "consumer",
+   "social"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Yik_Yak",
+    "title": "Yik Yak (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "shyp",
+  "name": "Shyp",
+  "year": 2014,
+  "kind": "startup",
+  "stage": "Series A",
+  "headline": "On-demand shipping pickups",
+  "pitch": "Founders run an app that sends a courier to pick up and package anything you want to ship, for a flat fee.",
+  "facts": [
+   "Raised $62.1 million in total",
+   "Operationally heavy service"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It cut most of its staff in 2017 and shut down in 2018.",
+  "outcome_year": 2018,
+  "pros": "Top venture firms invested.",
+  "tags": [
+   "logistics",
+   "services"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Shyp",
+    "title": "Shyp (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "rdio",
+  "name": "Rdio",
+  "year": 2010,
+  "kind": "startup",
+  "stage": "Launch",
+  "headline": "A music streaming service from Skype's founders",
+  "pitch": "The founders of Skype launch a subscription music-streaming service with a polished design, competing with services already licensing the major labels.",
+  "facts": [
+   "Famous founders",
+   "Expensive music licences"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It filed for Chapter 11 bankruptcy in November 2015 and sold assets to Pandora for $75 million.",
+  "outcome_year": 2015,
+  "pros": "The founders and investors backed it heavily.",
+  "tags": [
+   "media",
+   "music"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Rdio",
+    "title": "Rdio (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "pebble",
+  "name": "Pebble",
+  "year": 2012,
+  "kind": "startup",
+  "stage": "Kickstarter",
+  "headline": "A smartwatch that talks to your phone",
+  "pitch": "A founder who struggled to raise money puts his e-paper smartwatch on Kickstarter. It hits its $100,000 goal in two hours.",
+  "facts": [
+   "Over $4.7 million raised on Kickstarter in six days",
+   "Had raised only $375,000 from angels"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It became the most funded Kickstarter campaign of its time, but filed for insolvency in December 2016 and sold most of its assets to Fitbit.",
+  "outcome_year": 2016,
+  "pros": "Angels put in $375,000; venture investors had largely passed before Kickstarter.",
+  "tags": [
+   "hardware",
+   "wearables"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Pebble_(watch)",
+    "title": "Pebble (watch) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "essential",
+  "name": "Essential Products",
+  "year": 2016,
+  "kind": "startup",
+  "stage": "Series A",
+  "headline": "A premium phone from Android's creator",
+  "pitch": "The creator of Android is starting a company to make a premium smartphone and smart-home products.",
+  "facts": [
+   "Famous founder",
+   "Hardware competing with Apple and Samsung"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It was valued as a unicorn in 2017 and closed in February 2020.",
+  "outcome_year": 2020,
+  "pros": "Investors valued it at over $1 billion.",
+  "tags": [
+   "hardware",
+   "mobile"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Essential_Products",
+    "title": "Essential Products (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "anki",
+  "name": "Anki",
+  "year": 2013,
+  "kind": "startup",
+  "stage": "Series B",
+  "headline": "AI toy robots",
+  "pitch": "Robotics PhDs sell toy robots and racing cars with real artificial intelligence that react to their surroundings.",
+  "facts": [
+   "Raised $182.5 million in total",
+   "Consumer hardware"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It went bankrupt in April 2019 after losing a critical round of funding.",
+  "outcome_year": 2019,
+  "pros": "Top venture firms invested.",
+  "tags": [
+   "hardware",
+   "robotics"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Anki_(American_company)",
+    "title": "Anki (American company) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "lily",
+  "name": "Lily Robotics",
+  "year": 2015,
+  "kind": "startup",
+  "stage": "Pre-orders",
+  "headline": "A throw-and-fly camera drone",
+  "pitch": "Two graduates have a camera drone you throw into the air that follows you and films automatically. Pre-orders are pouring in.",
+  "facts": [
+   "About 60,000 pre-orders worth over $34 million",
+   "$14 million Series A"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It never shipped the drone, refunded customers and filed for bankruptcy in 2017.",
+  "outcome_year": 2017,
+  "pros": "A venture firm led a $14 million Series A.",
+  "tags": [
+   "hardware",
+   "drones"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Lily_Robotics",
+    "title": "Lily Robotics (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "zume",
+  "name": "Zume",
+  "year": 2016,
+  "kind": "startup",
+  "stage": "Series A",
+  "headline": "Robot-made pizza baked in delivery trucks",
+  "pitch": "Founders run a pizza company where robots help make pizzas that finish baking in ovens inside delivery trucks.",
+  "facts": [
+   "$6 million Series A",
+   "Later projected $1 billion in quarterly revenue by late 2021"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It shifted to food packaging in 2020 and shut down in June 2023.",
+  "outcome_year": 2023,
+  "pros": "Venture investors put in tens of millions of dollars, and later much more.",
+  "tags": [
+   "food",
+   "robotics"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Zume",
+    "title": "Zume (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "katerra",
+  "name": "Katerra",
+  "year": 2016,
+  "kind": "startup",
+  "stage": "Series A",
+  "headline": "A technology company to rebuild construction",
+  "pitch": "A former Flextronics CEO wants to make buildings like electronics: designed, manufactured and assembled by one tech-driven company.",
+  "facts": [
+   "Huge capital needs",
+   "Famous operator founder"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It took $835 million from SoftBank in 2018 and filed for bankruptcy in June 2021.",
+  "outcome_year": 2021,
+  "pros": "SoftBank and others invested billions.",
+  "tags": [
+   "construction",
+   "manufacturing"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Katerra",
+    "title": "Katerra (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "convoy",
+  "name": "Convoy",
+  "year": 2016,
+  "kind": "startup",
+  "stage": "Series A",
+  "headline": "Uber for trucking",
+  "pitch": "Two former Amazon managers run an app that matches shippers with truckers automatically, replacing phone-based freight brokers.",
+  "facts": [
+   "Raised $80 million by 2017",
+   "Cyclical freight market"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It was valued at $1 billion in 2018, then shut down in November 2023; Flexport took its assets.",
+  "outcome_year": 2023,
+  "pros": "Top venture firms invested.",
+  "tags": [
+   "logistics",
+   "marketplace"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Convoy_(company)",
+    "title": "Convoy (company) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "bird",
+  "name": "Bird",
+  "year": 2018,
+  "kind": "startup",
+  "stage": "Series A",
+  "headline": "Electric scooters you rent with an app",
+  "pitch": "A former Lyft and Uber executive drops rentable electric scooters on city sidewalks, unlocked by app.",
+  "facts": [
+   "Explosive early growth",
+   "Vandalism and city regulation"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It was valued at $2 billion in 2018; it was sold in 2024 to avoid bankruptcy.",
+  "outcome_year": 2024,
+  "pros": "Venture firms poured in hundreds of millions.",
+  "tags": [
+   "mobility",
+   "consumer"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Bird_Global",
+    "title": "Bird Global (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "quirky",
+  "name": "Quirky",
+  "year": 2010,
+  "kind": "startup",
+  "stage": "Series A",
+  "headline": "Crowdsourced inventions",
+  "pitch": "A young founder runs a site where the community submits and votes on invention ideas, and the company manufactures the winners.",
+  "facts": [
+   "$6.5 million Series A",
+   "Manufacturing many different products"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It raised more than $160 million, including from General Electric, and filed for Chapter 11 bankruptcy in September 2015.",
+  "outcome_year": 2015,
+  "pros": "Top venture firms and GE invested.",
+  "tags": [
+   "hardware",
+   "community"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Quirky_(company)",
+    "title": "Quirky (company) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "munchery",
+  "name": "Munchery",
+  "year": 2015,
+  "kind": "startup",
+  "stage": "Series C",
+  "headline": "Chef-made dinners delivered",
+  "pitch": "A company cooks meals in its own kitchens and delivers them, ready to heat, to homes in several cities.",
+  "facts": [
+   "$85 million Series C",
+   "Own kitchens and delivery"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It was valued at about $300 million and shut down abruptly in January 2019.",
+  "outcome_year": 2019,
+  "pros": "Venture firms invested $85 million in one round.",
+  "tags": [
+   "food",
+   "delivery"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Munchery",
+    "title": "Munchery (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "doppler-labs",
+  "name": "Doppler Labs",
+  "year": 2015,
+  "kind": "startup",
+  "stage": "Series B",
+  "headline": "Smart earbuds that filter the world",
+  "pitch": "A company is building wireless earbuds that let you turn down a crying baby or turn up a concert, a year before AirPods.",
+  "facts": [
+   "Raised over $50 million",
+   "Consumer hardware against Apple"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It wound down and closed in December 2017.",
+  "outcome_year": 2017,
+  "pros": "Venture firms invested over $50 million.",
+  "tags": [
+   "hardware",
+   "audio"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Doppler_Labs",
+    "title": "Doppler Labs (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "aereo",
+  "name": "Aereo",
+  "year": 2012,
+  "kind": "startup",
+  "stage": "Launch",
+  "headline": "Live TV over the internet using tiny antennas",
+  "pitch": "A startup rents each subscriber a tiny antenna in a data centre so they can watch and record broadcast TV online for about $8 a month.",
+  "facts": [
+   "Broadcasters are suing",
+   "Legal theory untested"
+  ],
+  "outcome": "bust",
+  "outcome_text": "After losing at the US Supreme Court in 2014 it filed for bankruptcy; TiVo bought its assets for $1 million.",
+  "outcome_year": 2015,
+  "pros": "Media investors backed it through the lawsuits.",
+  "tags": [
+   "media",
+   "legal"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Aereo",
+    "title": "Aereo (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "hq-trivia",
+  "name": "HQ Trivia",
+  "year": 2017,
+  "kind": "startup",
+  "stage": "Launch",
+  "headline": "A live trivia game show on your phone",
+  "pitch": "Two founders run a live trivia game in an app, twice a day, with real cash prizes. Hundreds of thousands of people tune in at once.",
+  "facts": [
+   "Huge live audiences",
+   "Prize money paid out"
+  ],
+  "outcome": "bust",
+  "outcome_text": "Its games were discontinued in February 2020.",
+  "outcome_year": 2020,
+  "pros": "Venture investors backed it.",
+  "tags": [
+   "consumer",
+   "games"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/HQ_Trivia",
+    "title": "HQ Trivia (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "ftx",
+  "name": "FTX",
+  "year": 2019,
+  "kind": "startup",
+  "stage": "Series B",
+  "headline": "A crypto exchange for professional traders",
+  "pitch": "A young trader who runs a quantitative crypto trading firm is starting an exchange for crypto derivatives.",
+  "facts": [
+   "Founder's trading firm also trades on the exchange",
+   "Rapid growth"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It was valued at $32 billion and collapsed into Chapter 11 bankruptcy in November 2022.",
+  "outcome_year": 2022,
+  "pros": "Top venture firms invested at a $32 billion valuation.",
+  "tags": [
+   "crypto",
+   "fintech"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/FTX",
+    "title": "FTX (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "better-place",
+  "name": "Better Place",
+  "year": 2008,
+  "kind": "startup",
+  "stage": "Series A",
+  "headline": "Swap your electric car's battery instead of charging",
+  "pitch": "A software executive plans a network of stations that swap electric-car batteries in minutes, with drivers buying miles like a phone plan.",
+  "facts": [
+   "Needs carmakers to build compatible cars",
+   "Raised $700 million by 2011"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It spent about $850 million, filed for bankruptcy in May 2013, and its remaining assets sold for $450,000.",
+  "outcome_year": 2013,
+  "pros": "Investors put in about $850 million.",
+  "tags": [
+   "energy",
+   "automotive"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Better_Place_(company)",
+    "title": "Better Place (company) (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "solyndra",
+  "name": "Solyndra",
+  "year": 2009,
+  "kind": "startup",
+  "stage": "Growth",
+  "headline": "Cylindrical solar panels",
+  "pitch": "A company makes solar panels from cylindrical tubes using thin-film cells instead of silicon, which is expensive.",
+  "facts": [
+   "$535 million federal loan guarantee",
+   "Betting silicon stays expensive"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It filed for bankruptcy in September 2011.",
+  "outcome_year": 2011,
+  "pros": "Venture firms and a federal loan guarantee backed it.",
+  "tags": [
+   "energy",
+   "hardware"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Solyndra",
+    "title": "Solyndra (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "fisker",
+  "name": "Fisker Automotive",
+  "year": 2009,
+  "kind": "startup",
+  "stage": "Growth",
+  "headline": "A luxury plug-in hybrid sports car",
+  "pitch": "A famous car designer is starting a company to build a luxury plug-in hybrid sedan.",
+  "facts": [
+   "$529 million federal loan",
+   "Raised over $1 billion from private investors"
+  ],
+  "outcome": "bust",
+  "outcome_text": "Battery recalls and supplier troubles followed, and the company went bankrupt in 2013.",
+  "outcome_year": 2013,
+  "pros": "Top venture firms invested over $1 billion.",
+  "tags": [
+   "automotive",
+   "energy"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Fisker_Automotive",
+    "title": "Fisker Automotive (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "boo-com",
+  "name": "Boo.com",
+  "year": 1999,
+  "kind": "startup",
+  "stage": "Series A",
+  "headline": "A global online fashion store",
+  "pitch": "Founders are building an online fashion retailer with 3D product views and a virtual shop assistant, launching in many countries at once.",
+  "facts": [
+   "Big launch budget",
+   "Most customers on dial-up"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It spent $135 million in about 18 months and went into receivership in May 2000.",
+  "outcome_year": 2000,
+  "pros": "Investors put in $135 million.",
+  "tags": [
+   "ecommerce",
+   "fashion"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Boo.com",
+    "title": "Boo.com (Wikipedia)"
+   }
+  ]
+ },
+ {
+  "slug": "ubiome",
+  "name": "uBiome",
+  "year": 2013,
+  "kind": "startup",
+  "stage": "Seed",
+  "headline": "Mail-in gut microbiome tests",
+  "pitch": "A crowdfunded startup sequences your gut bacteria from a mail-in sample and shows what's living inside you.",
+  "facts": [
+   "Crowdfunded launch",
+   "Consumer genetics market"
+  ],
+  "outcome": "bust",
+  "outcome_text": "It filed for bankruptcy in 2019 after an FBI raid; the SEC later charged two co-founders with defrauding investors.",
+  "outcome_year": 2019,
+  "pros": "Venture investors backed it.",
+  "tags": [
+   "health",
+   "diagnostics"
+  ],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/UBiome",
+    "title": "UBiome (Wikipedia)"
+   }
+  ]
+ }
+]

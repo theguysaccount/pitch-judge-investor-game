@@ -1,0 +1,85 @@
+# Build the game and publish it to GitHub Pages: on content or code pushes, weekly (fresh sitemap and share cards), or by hand.
+# Fails safe: a deck that fails validation, a failing test or a failed build stops before deploying; the last good deploy stays live.
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+    paths: ["judge/**", "data/**", "site/**", "scripts/**", ".github/workflows/deploy.yml"]
+  schedule:
+    - cron: "11 8 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  actions: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  PJ_BASE_URL: ${{ vars.PJ_BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+  PJ_REPO: ${{ github.repository }}
+  PJ_GOATCOUNTER: ${{ vars.PJ_GOATCOUNTER }}
+  PJ_SPONSOR_URL: ${{ vars.PJ_SPONSOR_URL }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - name: Tests
+        run: python -m unittest discover -s tests -t .
+      - name: Game-logic tests
+        run: node --test tests/js.test.mjs
+      - name: Build
+        run: python -m judge.site
+      - name: Share images
+        run: CHROME="$(command -v google-chrome || command -v chromium-browser || true)" python scripts/og.py dist
+      - name: Custom domain
+        if: vars.PJ_CUSTOM_DOMAIN != ''
+        run: echo "${{ vars.PJ_CUSTOM_DOMAIN }}" > dist/CNAME
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+      - uses: actions/upload-artifact@v7
+        with:
+          name: urls
+          path: dist/urls.txt
+          retention-days: 7
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
+
+  indexnow:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/download-artifact@v8
+        with:
+          name: urls
+      - name: Tell IndexNow about every page
+        run: python3 scripts/indexnow.py urls.txt "$PJ_BASE_URL"
+
+  keepalive:
+    needs: build
+    if: always() && github.event_name == 'schedule'
+    uses: ./.github/workflows/keepalive.yml

@@ -1,0 +1,19 @@
+{
+ "note": "Candidate pitches whose outcomes are not resolved yet, plus checks for existing pitches. The quarterly review (OPERATIONS.md) resolves what it can from public sources and adds a pitch only when its outcome meets a tier definition with a source.",
+ "unresolved_candidates": [
+  {"company": "Boom Supersonic", "pitch_year": 2016, "resolves_when": "Overture enters airline service (success/breakout) or the programme stops (bust)"},
+  {"company": "Joby Aviation", "pitch_year": 2016, "resolves_when": "Already public via SPAC at over $1B (breakout by IPO value); confirm the source and add"},
+  {"company": "Synchron", "pitch_year": 2016, "resolves_when": "FDA approval, acquisition, or shutdown"},
+  {"company": "Neuralink", "pitch_year": 2017, "resolves_when": "Private valuation over $1B is already reported; confirm and add as breakout"},
+  {"company": "Humane (AI Pin)", "pitch_year": 2023, "resolves_when": "Its 2025 asset sale to HP: confirm the price against capital raised before adding as a bust"},
+  {"company": "Rabbit (r1)", "pitch_year": 2023, "resolves_when": "Acquisition, shutdown or $1B valuation"},
+  {"company": "Magic Leap", "pitch_year": 2014, "resolves_when": "Exit or shutdown (raised billions; still private)"},
+  {"company": "WeWork", "pitch_year": 2010, "resolves_when": "Outcome is mixed (IPO then bankruptcy); add only with an explicit tier rule for early investors"},
+  {"company": "Blue Apron", "pitch_year": 2012, "resolves_when": "Mixed (IPO at about $1.9B, sold for about $103M); decide the tier rule first"},
+  {"company": "Casper", "pitch_year": 2014, "resolves_when": "Mixed (IPO, then taken private for less); decide the tier rule first"},
+  {"company": "MoviePass", "pitch_year": 2011, "resolves_when": "Mixed (acquired in 2017, then bankrupt); decide the tier rule first"},
+  {"company": "Path", "pitch_year": 2010, "resolves_when": "Acquired by Kakao for an undisclosed sum: needs a sourced price"},
+  {"company": "Color Labs", "pitch_year": 2011, "resolves_when": "Wikipedia is ambiguous on its end; needs a primary source"}
+ ],
+ "tv_candidates_without_wikipedia": ["Bombas", "Squatty Potty (pitch year unclear in source)", "Simply Fit Board", "Tower Paddle Boards", "Lovepop", "Chord Buddy", "Mission Belt"]
+}
