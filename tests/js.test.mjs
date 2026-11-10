@@ -51,13 +51,21 @@ test("practice deals distinct pitches", () => {
 });
 
 test("stratified dailies mix busts and winners and still never repeat within a cycle", () => {
-  const per = Math.floor(slugs.length / 5);
-  const seen = new Set();
-  for (let d = 1; d <= per; d++) {
-    const set = [...C.dailySet(slugs, d, 5, outcomeOf)];
-    const busts = set.filter((s) => outcomeOf[s] === "bust").length;
-    assert.ok(busts >= 2 && busts <= 3, "day " + d + " has " + busts + " busts");
-    for (const s of set) { assert.ok(!seen.has(s)); seen.add(s); }
+  const size = 5;
+  const per = Math.floor(slugs.length / size);
+  // Busts are spread evenly through each cycle, so every day gets the deck's share of them, rounded down or up.
+  // The bounds come from the deck itself, so adding pitches never breaks this test; only uneven dealing does.
+  const b = deck.filter((p) => p.outcome === "bust").length;
+  const lo = Math.floor((size * b) / slugs.length), hi = Math.ceil((size * b) / slugs.length);
+  assert.ok(lo >= 1 && hi <= size - 1, "a bust share of " + b + "/" + slugs.length + " leaves days without a mix");
+  for (let cycle = 0; cycle < 3; cycle++) {
+    const seen = new Set();
+    for (let d = cycle * per + 1; d <= (cycle + 1) * per; d++) {
+      const set = [...C.dailySet(slugs, d, size, outcomeOf)];
+      const busts = set.filter((s) => outcomeOf[s] === "bust").length;
+      assert.ok(busts >= lo && busts <= hi, "day " + d + " has " + busts + " busts, expected " + lo + "-" + hi);
+      for (const s of set) { assert.ok(!seen.has(s), "repeat " + s + " on day " + d); seen.add(s); }
+    }
   }
   assert.deepEqual([...C.dailySet(slugs, 3, 5, outcomeOf)], [...C.dailySet(slugs.slice().reverse(), 3, 5, outcomeOf)]);
 });

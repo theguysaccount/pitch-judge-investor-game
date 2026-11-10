@@ -3,6 +3,7 @@ import os
 import re
 import tempfile
 import unittest
+from html import escape
 from html.parser import HTMLParser
 from urllib.parse import urljoin, urlparse
 
@@ -136,11 +137,15 @@ class BuildTests(unittest.TestCase):
                 continue
             self.assertIn("not investment advice", html.replace("Nothing here is investment advice", "not investment advice"), rel)
 
-    def test_pitch_page_hides_the_outcome_until_asked(self):
-        html = self.pages["pitch/quibi/index.html"]
-        before, _, after = html.partition('<details class="reveal"')
-        self.assertNotIn("shut down that December", before)
-        self.assertIn("shut down that December", after)
+    def test_every_pitch_page_hides_the_outcome_until_asked(self):
+        # Whatever the deck holds: each pitch's outcome sits inside the reveal, never above it.
+        for p in self.deck:
+            html = self.pages["pitch/%s/index.html" % p["slug"]]
+            before, sep, after = html.partition('<details class="reveal"')
+            self.assertTrue(sep, p["slug"])
+            told = escape(p["outcome_text"], quote=True)
+            self.assertNotIn(told, before, p["slug"])
+            self.assertIn(told, after, p["slug"])
 
 
 if __name__ == "__main__":
